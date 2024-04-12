@@ -10,7 +10,7 @@ Estou constantemente buscando oportunidades para expandir meu conhecimento e apr
 <br>
 <br>
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Se você estiver interessado em colaborar em projetos ou simplesmente trocar ideias, não hesite em entrar em contato! ⤵️
 </p>
 
 <p align="left">
