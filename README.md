@@ -1,29 +1,27 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Olá! Eu sou Bruno Firmo, um estudante entusiasmado de Sistemas de Informação com uma paixão pela tecnologia e pelo desenvolvimento de software. 
+Hello! I am Bruno Firmo, an enthusiastic Information Systems student with a passion for technology and software development.
 <br>
  <br>
-Estou constantemente buscando oportunidades para expandir meu conhecimento e aprimorar minhas habilidades na área de desenvolvimento de software. Estou particularmente interessado em aprender e aplicar novas tecnologias, frameworks e metodologias para resolver problemas de forma eficiente e criativa.
+I am constantly looking for opportunities to expand my knowledge and improve my skills in the area of ​​software development. I am particularly interested in learning and applying new technologies, frameworks and methodologies to solve problems efficiently.
 </p>
 
 <br>
 <br>
 <p align="left">
-  💌 Se você estiver interessado em colaborar em projetos ou simplesmente trocar ideias, não hesite em entrar em contato! ⤵️
+  💌 If you are interested in collaborating on projects or simply exchanging ideas, don't hesitate to get in touch! ⤵️
 </p>
 
 <p align="left">
   <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=bruno.firmo09@gmail.com" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5561996519382?text=Ol%C3%A1%2C%20vim%20pelo%20GitHub." alt="WhatsApp"/></a>
   <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/bruniin.zx/" alt="Instagram"/></a>
 </p>
 <br>
 <br>
@@ -32,6 +30,6 @@ Estou constantemente buscando oportunidades para expandir meu conhecimento e apr
 ## 🚀 Minhas Skills
 
 <div align="left" >
-  <img src="https://skillicons.dev/icons?i=react,html,vscode,github,figma,tailwind,git,typescript,python,java" />
+  <img src="https://skillicons.dev/icons?i=html,cssreact,typescript,tailwind,python,django,java,vscode,github,figma,git" />
 </div>
 
