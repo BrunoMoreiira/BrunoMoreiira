@@ -30,6 +30,6 @@ I am constantly looking for opportunities to expand my knowledge and improve my 
 ## 🚀 Minhas Skills
 
 <div align="left" >
-  <img src="https://skillicons.dev/icons?i=html,css,react,typescript,tailwind,python,django,java,vscode,github,figma,git" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,django,java,github,figma,dotnet,jenkins" />
 </div>
 
