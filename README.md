@@ -1,35 +1,57 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="380px" max-width="380px" width="380px" align="right">
 
-<p align="left"> 
-Hello! I am Bruno Firmo, an enthusiastic Information Systems student with a passion for technology and software development.
-<br>
- <br>
-I am constantly looking for opportunities to expand my knowledge and improve my skills in the area of ​​software development. I am particularly interested in learning and applying new technologies, frameworks and methodologies to solve problems efficiently.
-</p>
+# Bruno Firmo
 
-<br>
-<br>
-<p align="left">
-  💌 If you are interested in collaborating on projects or simply exchanging ideas, don't hesitate to get in touch! ⤵️
-</p>
+### Full Stack Software Developer
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=bruno.firmo09@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/bruno-firmo" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5561996519382?text=Ol%C3%A1%2C%20vim%20pelo%20GitHub." alt="WhatsApp"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/bruniin.zx/" alt="Instagram"/></a>
+Software Developer focused on building and maintaining corporate systems, web platforms, APIs, mobile applications and SaaS products.
+<br><br>
+I work mainly with the .NET ecosystem, React, React Native and SQL Server, with experience in large-scale document management systems, startup product development, API design, data modeling, business rule implementation and system architecture.
+<br><br>
+Currently, I work on corporate software modernization and also build products from concept to implementation, including multi-tenant platforms, financial modules, RBAC/ABAC authorization, AI integrations and mobile apps.
 </p>
+
 <br>
-<br>
 
+## 🚀 Main Stack
 
-## 🚀 Minhas Skills
-
-<div align="left" >
-  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,django,java,github,figma,dotnet,jenkins" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,typescript,javascript,python,django,postgres,azure,docker,git,github,figma" />
 </div>
 
+<br>
+
+## 💻 What I work with
+
+- Back-end development with **.NET, C#, VB.NET and REST APIs**
+- Front-end development with **React, TypeScript and modern UI architectures**
+- Mobile development with **React Native and Expo**
+- Database modeling, query optimization and integrations with **SQL Server**
+- Corporate systems, document/process management platforms and institutional systems
+- SaaS architecture, multi-tenant applications and business rule automation
+- Authentication, authorization, RBAC/ABAC and security-focused features
+- AI/LLM integrations, caching strategies and productivity-oriented assistants
+
+<br>
+
+## 🧠 Experience Highlights
+
+- Maintenance and evolution of large-scale corporate systems for document and process management
+- Development of new features, integrations and performance improvements in complex systems
+- Co-founder and developer of **Ozé App**, a multi-tenant platform with financial modules, role-based access control and AI-powered features
+- Development of **Servus App**, including scheduling engine, shift management, gamification system, reports, push notifications and mobile app
+- Participation in consultancy and system planning for institutional management solutions
+
+<br>
+
+## 📫 Contact
+
+<p align="left">
+  <a href="mailto:bruno.firmo09@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bruno-firmo" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
