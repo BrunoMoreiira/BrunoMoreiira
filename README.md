@@ -9,7 +9,7 @@ Software Developer focused on building and maintaining corporate systems, web pl
 <br><br>
 I work mainly with the .NET ecosystem, React, React Native and SQL Server, with experience in large-scale document management systems, startup product development, API design, data modeling, business rule implementation and system architecture.
 <br><br>
-Currently, I work on corporate software modernization and also build products from concept to implementation, including multi-tenant platforms, financial modules, RBAC/ABAC authorization, AI integrations and mobile apps.
+I have experience with corporate software modernization and product development, building solutions from concept to implementation, including multi-tenant platforms, financial modules, RBAC/ABAC authorization, AI integrations and mobile apps.
 </p>
 
 <br>
