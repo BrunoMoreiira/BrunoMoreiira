@@ -45,24 +45,6 @@ Atualmente me especializo em <b>agentes de IA confiáveis</b>: arquiteturas onde
 
 <br>
 
-## 📊 GitHub
-
-<div align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BrunoMoreiira&show_icons=true&hide_border=true&title_color=6D28D9&icon_color=6D28D9&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMoreiira&layout=compact&hide_border=true&title_color=6D28D9&langs_count=8" />
-</div>
-
-<br>
-
-<!-- 🐍 Cobrinha dos commits — requer o workflow em .github/workflows/snake.yml (ver instruções) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunoMoreiira/BrunoMoreiira/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrunoMoreiira/BrunoMoreiira/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/BrunoMoreiira/BrunoMoreiira/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br>
-
 ## 📫 Contact
 
 <p align="left">
